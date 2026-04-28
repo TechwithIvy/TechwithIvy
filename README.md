@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ivy 👋
 
-<!--
-**TechwithIvy/TechwithIvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a BS Cybersecurity student building hands-on experience in IT support, networking, security monitoring, and user access management.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Windows Server
+- Active Directory
+- DNS/DHCP basics
+- Linux basics
+- Splunk / SIEM basics
+- Wireshark
+- Security awareness
+- Troubleshooting
+- Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects (coming soon)
+
+### Active Directory Home Lab
+Built a Windows Server domain environment to practice user management, groups, permissions, and domain authentication.
+
+### SOC Log Analysis Lab
+Analyzed security logs using Splunk to identify suspicious login activity and document findings.
+
+### Phishing Awareness Training
+Created a beginner-friendly security awareness guide to help employees recognize phishing emails.
